@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Garg</h1>
-<h3 align="center">A passionate frontend developer from India with 2+ years of experience in React JS, Typescript, Javascript{ES6, ES7}, Redux Toolkit and looking forword to keep exploring the depth of the web world ✌️..</h3>
+<h3 align="center">A passionate frontend developer from India with 3 years of experience in React JS, Typescript, Javascript{ES6, ES7}, Redux Toolkit and looking forword to keep exploring the depth of the web world ✌️..</h3>
 
 - 🌱 I’m currently learning **React JS, Node JS, Next JS**
 
